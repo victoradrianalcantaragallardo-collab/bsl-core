@@ -19,10 +19,9 @@ Este repositorio mantiene una filosofía de **tres documentos independientes y p
 
 La arquitectura se divide formalmente en los siguientes pilares conceptuales:
 
-1. **[GÉNESIS](genesis.md)** — Génesis Histórico, filosófico y conceptual que da origen a la arquitectura.
-2. **[Especificación Técnica y Compendio de Leyes Lógicas](especificacion_tecnica.md)** — Detalle de las 12 leyes de control, la dinámica metabólica y el motor de procesamiento.
-3. **[El Modelo Universal de los 6 Pasos](modelo_6_pasos.md)** — Metodología sistemática de aplicación y gobernanza del sistema.
-
+1. **[GÉNESIS](GÉNESIS.pdf)** — Génesis Histórico, filosófico y conceptual que da origen a la arquitectura.
+2. **[Especificación Técnica y Compendio de Leyes Lógicas](ESPECIFICACIÓN%20TÉCNICA%20Y%20COMPENDIO%20DE%20LEYE.pdf)** *(o el nombre exacto con el que se guardó tu PDF de leyes)* — Detalle de las 12 leyes de control, la dinámica metabólica y el motor de procesamiento.
+3. **[El Modelo Universal de los 6 Pasos](VI.pdf)** — Metodología sistemática de aplicación y gobernanza del sistema.
 ---
 
 ## ⚙️ Estructura del Repositorio
