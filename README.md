@@ -1,6 +1,6 @@
-## ⚡ Principio Físico y Simulación (Bufón, Sol y Luna)
+![Principio BSL Core](bsl_code.jpeg)
 
-![Simulación del Circuito BSL Core](bsl_core.png)
+
 # bsl-core
 Procesador Híbrido Cognitivo BSL Core y Metamodelo Universal de Gobernanza
 # BSL Core: Procesador Híbrido Cognitivo (Bufón, Sol y Luna)
@@ -34,7 +34,11 @@ La arquitectura se divide formalmente en los siguientes pilares conceptuales:
 * `LICENSE-DOCS.md` — Declaración de Propiedad Intelectual y Licenciamiento Creative Commons (aplicada a la documentación conceptual y textos).
 
 ---
+## ⚡ Principio Físico y Simulación (Bufón, Sol y Luna)
 
+![Simulación del Circuito BSL Core](bsl_core.png)
+
+---
 ## 🛡️ Licenciamiento y Autoría
 
 * **Código Fuente:** Protegido bajo la **Licencia MIT** (permite uso y modificación del software bajo la obligación estricta de mantener el aviso de autoría original).
