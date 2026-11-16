@@ -1,8 +1,9 @@
+## ⚡ bsl-core
+Procesador Híbrido Cognitivo BSL Core y Metamodelo Universal de Gobernanza
+
 ![Principio BSL Core](bsl_code.jpeg)
 
 
-# bsl-core
-Procesador Híbrido Cognitivo BSL Core y Metamodelo Universal de Gobernanza
 # BSL Core: Procesador Híbrido Cognitivo (Bufón, Sol y Luna)
 
 > **Autor y Arquitecto Principal:** Victor Adrian Alcantara Gallardo  
