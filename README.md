@@ -1,3 +1,6 @@
+## ⚡ Principio Físico y Simulación (Bufón, Sol y Luna)
+
+![Simulación del Circuito BSL Core](bsl_core.png)
 # bsl-core
 Procesador Híbrido Cognitivo BSL Core y Metamodelo Universal de Gobernanza
 # BSL Core: Procesador Híbrido Cognitivo (Bufón, Sol y Luna)
